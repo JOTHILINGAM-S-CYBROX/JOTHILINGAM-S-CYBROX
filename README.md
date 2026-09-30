@@ -1,41 +1,89 @@
-# Hi, I'm Jothilingam S 👋
+<div align="center">
 
-### Cloud & DevOps-focused IT Graduate
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Jothilingam+S;Cloud+%26+DevOps+Focused+IT+Graduate;AWS+%7C+Google+Cloud+%7C+Docker;GitHub+Actions+%7C+CI%2FCD+%7C+Linux;Building+%26+Deploying+Production+Applications" />
 
-Cloud & DevOps-focused IT graduate with hands-on experience in AWS, Google Cloud, Docker, GitHub Actions, CI/CD and Linux. Building, deploying and troubleshooting production applications.
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=JOTHILINGAM-S-CYBROX&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
-## ☁️ Cloud & DevOps
-
-- AWS: EC2, VPC, S3, RDS, IAM, Route 53, CloudWatch
-- Google Cloud: Cloud Run, Artifact Registry
-- DevOps: Git, GitHub Actions, Docker, CI/CD
-- Infrastructure: Linux, Nginx, Networking
-- Development: React, JavaScript, Python, REST APIs
+</div>
 
 ---
 
-## 🚀 Projects
+<div align="center">
 
-### SPM Crackers
-Production e-commerce application with GitHub Actions CI/CD, Docker-based builds and automated deployment to Google Cloud Run.
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,nginx,git,python,react,js,nodejs,mysql,postgres" />
 
-### The Grove Restaurant
-Production web application with GitHub Actions, Docker-based deployment workflows and Google Cloud Run.
-
-### When Is My Bus
-Web application focused on bus information and user-friendly transportation search.
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## About Me
 
-I actively work on application development, cloud deployment, CI/CD and infrastructure.
+Cloud & DevOps-focused IT graduate with hands-on experience in **AWS, Google Cloud, Docker, GitHub Actions, CI/CD, Linux and production application deployment**.
+
+I work across application development, cloud infrastructure, deployment automation, troubleshooting and performance optimization.
 
 ---
 
-## 📫 Connect With Me
+## Cloud & DevOps
 
-- LinkedIn: https://linkedin.com/in/jothilingam-s
-- Email: jothilingamsivalingamg@gmail.com
+| Category | Technologies |
+|---|---|
+| Cloud | AWS, Google Cloud |
+| Compute | EC2, Google Cloud Run |
+| Storage | Amazon S3 |
+| Database | Amazon RDS, MySQL, PostgreSQL |
+| Networking | VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway |
+| Security | IAM, Security Groups, NACLs, Access Policies |
+| DNS | Route 53 |
+| Monitoring | CloudWatch |
+| Containers | Docker |
+| CI/CD | GitHub Actions |
+| Servers | Linux, Nginx |
+| Automation | Bash, AWS CLI |
+| Development | React, JavaScript, Python, REST APIs |
+
+---
+
+## CI/CD
+
+<div align="center">
+
+```text
+                    SOURCE
+                       |
+                       v
+                 +-----------+
+                 |   GitHub   |
+                 +-----------+
+                       |
+                       v
+              +------------------+
+              | GitHub Actions   |
+              +------------------+
+                       |
+                       v
+              +------------------+
+              | Lint & Validate  |
+              +------------------+
+                       |
+                       v
+              +------------------+
+              |   Docker Build   |
+              +------------------+
+                       |
+                       v
+              +------------------+
+              | Push Image       |
+              | Container        |
+              | Registry         |
+              +------------------+
+                       |
+                       v
+              +------------------+
+              |  Cloud Run       |
+              +------------------+
+                       |
+                       v
+                  PRODUCTION
