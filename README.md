@@ -15,7 +15,6 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/jothilingam-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://sjitsolutions.in"><img src="https://img.shields.io/badge/SJ_IT_Solutions-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=JOTHILINGAM-S-CYBROX&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Open_to_Work-Immediate_Joiner-3fb950?style=flat-square" />
 
