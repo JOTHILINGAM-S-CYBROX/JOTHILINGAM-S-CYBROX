@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Jothilingam S 👋
 
-<!--
-**JOTHILINGAM-S-CYBROX/JOTHILINGAM-S-CYBROX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud & DevOps-focused IT Graduate
 
-Here are some ideas to get you started:
+Cloud & DevOps-focused IT graduate with hands-on experience in AWS, Google Cloud, Docker, GitHub Actions, CI/CD and Linux. Building, deploying and troubleshooting production applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☁️ Cloud & DevOps
+
+- AWS: EC2, VPC, S3, RDS, IAM, Route 53, CloudWatch
+- Google Cloud: Cloud Run, Artifact Registry
+- DevOps: Git, GitHub Actions, Docker, CI/CD
+- Infrastructure: Linux, Nginx, Networking
+- Development: React, JavaScript, Python, REST APIs
+
+---
+
+## 🚀 Projects
+
+### SPM Crackers
+Production e-commerce application with GitHub Actions CI/CD, Docker-based builds and automated deployment to Google Cloud Run.
+
+### The Grove Restaurant
+Production web application with GitHub Actions, Docker-based deployment workflows and Google Cloud Run.
+
+### When Is My Bus
+Web application focused on bus information and user-friendly transportation search.
+
+---
+
+## 📊 GitHub Activity
+
+I actively work on application development, cloud deployment, CI/CD and infrastructure.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/jothilingam-s
+- Email: jothilingamsivalingamg@gmail.com
