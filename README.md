@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1f6feb,100:58a6ff&text=Jothilingam%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58" width="100%" />
+<img src="./assets/banner.svg" alt="Jothilingam S - Cloud and DevOps Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Building+%26+Deploying+Production+Applications;AWS+%7C+Google+Cloud+%7C+Docker;GitHub+Actions+%7C+CI%2FCD+%7C+Linux;Automating+the+path+from+commit+to+production" alt="Typing SVG" />
 
@@ -83,16 +83,7 @@ I work across **application development, cloud infrastructure, deployment automa
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JOTHILINGAM-S-CYBROX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOTHILINGAM-S-CYBROX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&border_radius=12" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JOTHILINGAM-S-CYBROX&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=12" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JOTHILINGAM-S-CYBROX&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%" />
+<img src="https://streak-stats.demolab.com?user=JOTHILINGAM-S-CYBROX&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=12" alt="GitHub streak" />
 
 </div>
 
@@ -104,6 +95,6 @@ I work across **application development, cloud infrastructure, deployment automa
 
 <a href="https://www.linkedin.com/in/jothilingam-s"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58a6ff,50:1f6feb,100:0d1117&section=footer" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
